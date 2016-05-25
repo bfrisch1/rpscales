@@ -14,10 +14,12 @@
 .content-div h1 {
     font-size: 39px;
     font-weight: 700;
+    text-align: center;
 }
 
 .content-div h3 {
     font-size: 22px;
+    text-align: center;
 }
 
 .company-name {
