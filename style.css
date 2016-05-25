@@ -1,6 +1,7 @@
 .page-background-image{
     background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) ), url(http://i.imgur.com/LXuAvio.jpg);
     background-size: cover;
+    background-position: center center;
 }
 
 .content-div {
