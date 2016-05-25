@@ -1,0 +1,47 @@
+.page-background-image{
+    background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) ), url(http://i.imgur.com/LXuAvio.jpg);
+    background-size: cover;
+}
+
+.content-div {
+    background-color:rgba(255, 255, 255, 0.91);
+    height: 460px;
+    border-radius: 6px;
+    font-family: 'Maven Pro', sans-serif;
+    color: #607D8B;
+}
+
+.content-div h1 {
+    font-size: 39px;
+    font-weight: 700;
+}
+
+.content-div h3 {
+    font-size: 22px;
+}
+
+.company-name {
+    font-weight: 400;
+}
+
+.email-link a {
+    color:#fff;
+    text-decoration: none;
+    padding: 10px 30px;
+    font-size: 28px;
+}
+
+.email-link {
+    margin-top: 25px;
+    display: inline-block;
+    background-color: #607d8b;
+    border-radius: 3px;
+    padding: 10px 0;
+}
+
+span.email-link a:hover {
+background-color: rgba(255, 255, 255, 0.91);
+border:1px solid #607d8b;
+color:#607d8b;
+border-radius: 3px;
+}
